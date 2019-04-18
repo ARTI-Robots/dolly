@@ -2,7 +2,7 @@
   <world name='city_1'>
     <gui fullscreen='0'>
       <camera name='city_camera'>
-        <pose frame=''>24.3782 -151.424 56.8541 -0 0.589796 1.45218</pose>
+        <pose frame=''>26.184 -142.371 57.9707 0 0.621795 1.44818</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -724,15 +724,15 @@
       <pose frame=''>0.386309 1.37702 0 0 -0 0</pose>
     </model>
     <state world_name='city_1'>
-      <sim_time>182 131000000</sim_time>
-      <real_time>104 866422817</real_time>
-      <wall_time>1555577515 905929387</wall_time>
-      <iterations>101510</iterations>
+      <sim_time>704 970000000</sim_time>
+      <real_time>535 565155536</real_time>
+      <wall_time>1555578910 159096907</wall_time>
+      <iterations>522839</iterations>
       <model name='city_osm_roundabout'>
-        <pose frame=''>0.906746 -0.253434 -0.324793 0 -0 0</pose>
+        <pose frame=''>0.906746 -0.253434 -0.135114 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>0.906746 -0.253434 -0.324793 0 -0 0</pose>
+          <pose frame=''>0.906746 -0.253434 -0.135114 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
